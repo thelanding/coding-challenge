@@ -1,5 +1,5 @@
 # coding-challenge
-A challenge for frontend engineers
+A challenge for full stack engineers
 
 # Goal
 Build a simple Todo app with the following features:
