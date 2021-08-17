@@ -16,6 +16,6 @@ Build a simple Todo app with the following features:
 - Next js app: https://github.com/smakosh/auth-ts-next-boilerplate
 
 # Guide
-The interviewer will help you to setup those 2 boilerplates which already have authentication built in, helping you focus mainly on the other remaining features to be implemented. The goal of this challenge is not to build the app well but to observe how you will try to approach to build it and ask you few technical questions along the way.
+Use these 2 boilerplates linked above (which already have authentication built in), to add the remaining features. The goal of this challenge is not build the app to perfetion, but for us to see your approach.
 
 > “Usually, someone who really had to struggle with a problem, they really understand the details, and they don't forget.” Elon Musk
